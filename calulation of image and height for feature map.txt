@@ -1,0 +1,8 @@
+(output_width, output_height) = get_img_output_length(300, 400)
+print(output_width, output_height)
+output:
+18 25
+#######################################################################################################
+18,25 will be the feature map size
+########################################################################################################
+get_img_output_length -> this is same as the image_length_calc_function
